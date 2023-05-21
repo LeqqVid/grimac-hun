@@ -23,7 +23,7 @@ Grim Anticheat - Hungary Language - Steps
   - "&7======================"
   - "%prefix% &bProfil: &f%player%"
   - "&bPing: &f%ping%"
-  - "&bVerzió: &f%version%"
+  - "&bVerzio: &f%version%"
   - "&bKliens: &f%brand%"
   - "&7======================"
 
