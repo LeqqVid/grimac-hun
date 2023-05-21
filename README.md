@@ -3,19 +3,20 @@
 Grim Anticheat - Hungary Language - Steps
 1. Go to GrimAC Folder and open messages.yml
 2. When Commands start, replace with this:
-    alerts-enabled: "%prefix% &fAlertek bekapcsolva!"
-    alerts-disabled: "%prefix% &fAlertek kikapcsolva!"
-    client-brand-format: "%prefix% &f%player% csatlakozott ezzel: %brand%"
-    console-specify-target: "%prefix% &cMeg kell adnia egy célt konzolkent!"
-    player-not-found: "%prefix% &cA jatekos mentesul vagy offline allapotban van!"
-    player-not-this-server: "%prefix% &cEz a jatekos nincs a szerveren!"
-    spectate-return: "\n%prefix% &fKattintson ide, hogy visszaterjen az elozo helyre\n"
-    cannot-spectate-return: "%prefix% &cEzt csak a jatekos megtekinteset kovetoen teheti meg"
-    cannot-run-on-self: "%prefix% &cNem tudod ezt a parancsot hasznalni magadon!"
-    upload-log: "%prefix% &fHibakereses feltoltve ide: %url%"
-    upload-log-start: "%prefix% &fLog frissites... legyszi varj"
-    upload-log-not-found: "%prefix% &cNem talaljuk ezt a logot."
-    upload-log-upload-failure: "%prefix% &cHiba tortent a naplo feltoltesekor. Tovabbi informacioert tekintse meg a konzolt"
+   - alerts-enabled: "%prefix% &fAlertek bekapcsolva!"
+   - alerts-disabled: "%prefix% &fAlertek kikapcsolva!"
+   - client-brand-format: "%prefix% &f%player% csatlakozott ezzel: %brand%"
+   - console-specify-target: "%prefix% &cMeg kell adnia egy célt konzolkent!"
+   - player-not-found: "%prefix% &cA jatekos mentesul vagy offline allapotban van!"
+   - player-not-this-server: "%prefix% &cEz a jatekos nincs a szerveren!"
+   - spectate-return: "\n%prefix% &fKattintson ide, hogy visszaterjen az elozo helyre\n"
+   - cannot-spectate-return: "%prefix% &cEzt csak a jatekos megtekinteset kovetoen teheti meg"
+   - cannot-run-on-self: "%prefix% &cNem tudod ezt a parancsot hasznalni magadon!"
+   - upload-log: "%prefix% &fHibakereses feltoltve ide: %url%"
+   - upload-log-start: "%prefix% &fLog frissites... legyszi varj"
+   - upload-log-not-found: "%prefix% &cNem talaljuk ezt a logot."
+   - upload-log-upload-failure: "%prefix% &cHiba tortent a naplo feltoltesekor. Tovabbi informacioert tekintse meg a konzolt"
+   - Please remove Lines! (-)
 
 
 3. When profile start, replace with this:
